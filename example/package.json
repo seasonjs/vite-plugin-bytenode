@@ -1,0 +1,27 @@
+{
+  "name": "example",
+  "version": "0.0.3",
+  "description": "Js instantiation library which copy from vscode",
+  "main": "dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "compile": "vite build "
+  },
+  "keywords": [
+    "frontend",
+    "instantiation",
+    "vscode",
+    "ioc"
+  ],
+  "author": "Cyberhan123",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.5",
+    "vitest": "^0.31.0",
+    "@seasonjs/vite-plugin-bytenode": "workspace:*"
+  }
+}
