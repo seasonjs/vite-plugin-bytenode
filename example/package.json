@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "^18.16.3",
     "typescript": "^5.0.4",
-    "vite": "^4.3.5",
+    "vite": "^4.3.9",
     "vitest": "^0.31.0",
     "@seasonjs/vite-plugin-bytenode": "workspace:*"
   }
